@@ -11,7 +11,7 @@ const port = process.env.PORT || 5000
 //pass: VOSsvw8Qtxs2clJX
 
 app.use(cors())
-app.use(express.json())
+// app.use(express.json())
 
 
 
